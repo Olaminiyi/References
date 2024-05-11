@@ -15,3 +15,8 @@ https://www.youtube.com/watch?v=B0CGyboZnjg&t=843s
 ### Github action reusable
 https://github.com/RekhuGopal/gitreusableflows
 https://www.youtube.com/watch?v=Mx7qVQ7yy20
+
+
+
+### Job website reference
+1. Data anotation: https://app.dataannotation.tech/workers/projects
