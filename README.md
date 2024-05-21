@@ -9,6 +9,9 @@ useful references
 5. https://github.com/dybran?tab=repositories
 6. https://github.com/Micah-Shallom
 
+### for other project
+1. https://github.com/ravindrasinghh?tab=repositories
+
 ### EBS CSI Driver in AWS EKS (Elastic kubernetes service) - Complete easy setup
 https://www.youtube.com/watch?v=B0CGyboZnjg&t=843s
 
