@@ -19,7 +19,8 @@ https://www.youtube.com/watch?v=B0CGyboZnjg&t=843s
 https://github.com/RekhuGopal/gitreusableflows
 https://www.youtube.com/watch?v=Mx7qVQ7yy20
 
-
+### Python for Devops Engineer
+https://www.youtube.com/playlist?list=PLdpzxOOAlwvKwTyYNJCUwGPvql0TrsPgv
 
 ### Job website reference
 1. Data anotation: https://app.dataannotation.tech/workers/projects
