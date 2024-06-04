@@ -24,3 +24,9 @@ https://www.youtube.com/playlist?list=PLdpzxOOAlwvKwTyYNJCUwGPvql0TrsPgv
 
 ### Job website reference
 1. Data anotation: https://app.dataannotation.tech/workers/projects
+
+### Learning path
+1. python
+2. Go
+3. MLOps
+   
