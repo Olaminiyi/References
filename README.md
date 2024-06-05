@@ -8,6 +8,7 @@ useful references
 4. https://github.com/IwunzeGE/DevOps-Project
 5. https://github.com/dybran?tab=repositories
 6. https://github.com/Micah-Shallom
+7. https://github.com/nbomasi
 
 ### for other project
 1. https://github.com/ravindrasinghh?tab=repositories
