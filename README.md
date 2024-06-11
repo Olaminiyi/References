@@ -31,4 +31,4 @@ https://www.youtube.com/playlist?list=PLdpzxOOAlwvKwTyYNJCUwGPvql0TrsPgv
 2. Go
 3. MLOps
 
-/Users/olaminiyi/Documents/kopk8s/images/Screenshot 2024-06-11 at 23.45.20.png
+
