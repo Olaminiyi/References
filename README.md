@@ -31,4 +31,5 @@ https://www.youtube.com/playlist?list=PLdpzxOOAlwvKwTyYNJCUwGPvql0TrsPgv
 2. Go
 3. MLOps
 
-
+### List of ip ranges
+https://ipinfo.io/ips
