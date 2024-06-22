@@ -34,4 +34,5 @@ https://www.youtube.com/playlist?list=PLdpzxOOAlwvKwTyYNJCUwGPvql0TrsPgv
 ### List of ip ranges
 https://ipinfo.io/ips
 
-#
+### Project
+1. Develop a platform like Medium and dev.to
