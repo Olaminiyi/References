@@ -35,4 +35,4 @@ https://www.youtube.com/playlist?list=PLdpzxOOAlwvKwTyYNJCUwGPvql0TrsPgv
 https://ipinfo.io/ips
 
 ### Project
-1. Develop a platform like Medium and dev.to
+1. Develop a platform like Medium and dev.to.
