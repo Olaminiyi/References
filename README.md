@@ -10,6 +10,9 @@ useful references...
 6. https://github.com/Micah-Shallom
 7. https://github.com/nbomasi
 
+### To unstage a comit
+git reset --soft HEAD~1
+
 ### for other project
 1. https://github.com/ravindrasinghh?tab=repositories
 
