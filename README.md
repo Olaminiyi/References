@@ -39,3 +39,6 @@ https://ipinfo.io/ips
 
 ### Project
 1. Develop a platform like Medium and dev.to
+
+### For code test
+https://fastdevai.com/code
