@@ -42,3 +42,6 @@ https://ipinfo.io/ips
 
 ### For code test
 https://fastdevai.com/code
+
+### Leetcode 75 question excel sheet link
+https://docs.google.com/spreadsheets/u/0/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/
