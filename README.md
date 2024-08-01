@@ -10,7 +10,7 @@ useful references...
 6. https://github.com/Micah-Shallom
 7. https://github.com/nbomasi
 
-### To unstage a comit
+### To unstage a comit..
 git reset --hard origin
 
 ### for other project
