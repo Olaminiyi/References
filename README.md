@@ -11,7 +11,7 @@ useful references...
 7. https://github.com/nbomasi
 
 ### To unstage a comit..
-git reset --hard main
+git reset HEAD~1  
 
 ### for other project
 1. https://github.com/ravindrasinghh?tab=repositories
