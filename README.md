@@ -35,7 +35,8 @@ https://www.youtube.com/playlist?list=PLdpzxOOAlwvKwTyYNJCUwGPvql0TrsPgv
 3. MLOps
 
 ### List of ip ranges
-https://ipinfo.io/ips
+1. https://ipinfo.io/ips
+2. https://www.ipaddressguide.com/
 
 ### Project
 1. Develop a platform like Medium and dev.to
