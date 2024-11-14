@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=cB0fCMPIj1Y
 ## To unstage a comit..
 git reset HEAD~1  
 
-### for other project
+## for other project
 1. https://github.com/ravindrasinghh?tab=repositories
 
 ### EBS CSI Driver in AWS EKS (Elastic kubernetes service) - Complete easy setup.
