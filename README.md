@@ -13,7 +13,7 @@ useful references...
 ## Kubernetes(EKS) + AWS IAM - Access Management and Control || RBAC
 https://www.youtube.com/watch?v=cB0fCMPIj1Y
 
-### To unstage a comit..
+## To unstage a comit..
 git reset HEAD~1  
 
 ### for other project
