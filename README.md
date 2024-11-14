@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=cB0fCMPIj1Y
 git reset HEAD~1  
 
 ## for other project
-1. https://github.com/ravindrasinghh?tab=repositories
+https://github.com/ravindrasinghh?tab=repositories
 
 ## EBS CSI Driver in AWS EKS (Elastic kubernetes service) - Complete easy setup.
 https://www.youtube.com/watch?v=B0CGyboZnjg&t=843s
