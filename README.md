@@ -29,6 +29,9 @@ https://www.youtube.com/watch?v=Mx7qVQ7yy20
 ### Python for Devops Engineer
 https://www.youtube.com/playlist?list=PLdpzxOOAlwvKwTyYNJCUwGPvql0TrsPgv
 
+## WEB3
+https://web3.career/learn-web3
+
 ### Job website reference
 1. Data anotation: https://app.dataannotation.tech/workers/projects
 
