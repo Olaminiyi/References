@@ -1,7 +1,7 @@
 # References
 useful references...
 
-### Github references for dare project
+## Github references for dare project
 1. https://github.com/onyeka-hub?tab=repositories
 2. https://github.com/Tonybesto/DevOps_Projects
 3. https://github.com/Livingstone95?tab=repositories
