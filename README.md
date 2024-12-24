@@ -52,3 +52,49 @@ https://fastdevai.com/code
 
 ### Leetcode 75 question excel sheet link
 https://docs.google.com/spreadsheets/u/0/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/
+
+
+#### Java
+
+- Spring framework
+
+  - Spring Boot
+  - Maven
+  - Spring Security
+  - Spring Batch
+  - Hibernate
+
+- Tomcat
+
+- Ant
+
+- Testing
+  - Test Driven Development
+  - J-Unit
+  - Jasmine
+  - Automated test frameworks
+  - User testing
+
+- Micro-Service Architecture
+
+- Develop
+  - API design and open standards
+  - RESTful APIs
+  - Swagger
+  - Open API
+
+- Security
+  - OWASP Top Ten
+  - Denial of Service
+  - SQL Injection
+  - Cross-Site Request Forgery
+
+- High Availability products
+
+- EDB failover manager
+
+- RPC concepts and transport mechanisms
+  - HTTP
+  - Shared memory
+
+- Experience within the Payments/Banking/FinTech Sector
