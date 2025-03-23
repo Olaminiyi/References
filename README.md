@@ -13,8 +13,11 @@ useful references...
 ## Kubernetes(EKS) + AWS IAM - Access Management and Control || RBAC
 https://www.youtube.com/watch?v=cB0fCMPIj1Y
 
-## To unstage a comit..
-git reset HEAD~1  
+## Git
+1. To unstage a commit
+git reset HEAD~1
+2. to remove .git from a folder
+   rm -rf .git
 
 ## for other project
 1. https://github.com/ravindrasinghh?tab=repositories
